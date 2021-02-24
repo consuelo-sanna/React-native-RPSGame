@@ -19,7 +19,7 @@ const PlayScreen = () => {
   useEffect(()=> {
       if(counter === 0) return;
       const timer = setTimeout(()=>{
-          setCounter(counter - 1)//(prv => {console.log("prv ",prv); return prv-1} )
+          setCounter(counter - 1)
       },500)
 
       return () => clearTimeout(timer)
