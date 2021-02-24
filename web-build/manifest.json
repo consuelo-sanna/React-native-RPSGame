@@ -1,5 +1,6 @@
 {
   "background_color": "#ffffff",
+  "description": "Try to beat this amazing futuristic artificial intelligence in a fight to the death of Rock Paper Scissors. Just kidding, but it is always fun to play!",
   "display": "standalone",
   "lang": "en",
   "name": "RPSGame",
