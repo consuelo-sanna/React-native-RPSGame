@@ -2,7 +2,10 @@
   "expo": {
     "name": "RPSGame",
     "slug": "RPSGame",
-    "version": "1.0.0",
+    "description": "Try to beat this amazing futuristic artificial intelligence in a fight to the death of Rock Paper Scissors. Just kidding, but it is always fun to play!",
+    "version": "1.0.1",
+    "owner": "Consuelo Sanna",
+    "githubUrl": "https://github.com/consuelo-sanna/React-native-RPSGame",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
